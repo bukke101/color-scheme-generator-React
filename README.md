@@ -10,7 +10,7 @@ Copy Hex Values with a Click
 
 ## Built With:
 - React 
--Asynchronous JavaScript
+- Asynchronous JavaScript
 - HTML5
 - CSS
 
