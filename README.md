@@ -8,4 +8,4 @@ Explore Color Palette
 Customize Generation Modes
 Copy Hex Values with a Click
 Built With:
-React, Asynchronous JavaScript, Semantic HTML5, CSS
+React, Asynchronous JavaScript, HTML5, CSS
