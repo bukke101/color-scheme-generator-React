@@ -1,11 +1,17 @@
-Color Scheme Generator
+# Color Scheme Generator
 
-Description:
-Create stunning color palettes for your projects with the Color Scheme Generator! Built in React by Me, this tool offers a user-friendly interface to explore various colors, generation modes, and copy hex values.
+Developed using React, this user-friendly tool offers various color exploration modes and one-click hex value copying.
 
-Features:
-Explore Color Palette
+## Features:
+
+Explore Color Palettes
 Customize Generation Modes
 Copy Hex Values with a Click
-Built With:
-React, Asynchronous JavaScript, HTML5, CSS
+
+## Built With:
+- React 
+-Asynchronous JavaScript
+- HTML5
+- CSS
+
+This project was a solo endeavor from Scrimba's API course by Bob Ziroll. Based on a Figma design, it uses React, HTML, CSS, and the https://www.thecolorapi.com/ API.
