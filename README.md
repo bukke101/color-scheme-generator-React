@@ -3,9 +3,9 @@
 
 ## Features:
 
-Explore Color Palettes
-Customize Generation Modes
-Copy Hex Values with a Click
+- Explore Color Palettes
+- Customize Generation Modes
+- Copy Hex Values with a Click
 
 ## Built With:
 - React 
