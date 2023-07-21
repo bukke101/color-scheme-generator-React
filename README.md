@@ -13,7 +13,7 @@ Copy Hex Values with a Click
 - HTML5
 - CSS
 
-This project was a solo endeavor from Scrimba's API course by Bob Ziroll. Based on a Figma design, the https://www.thecolorapi.com/ API.
+This project was a solo endeavor from Scrimba's API course by Bob Ziroll. Based on a Figma design, and the https://www.thecolorapi.com/ API.
 
 
 ![Screenshot 2023-07-20 at 16 37 37](https://github.com/bukke101/color-scheme-generator-React/assets/64977921/65fb3984-193f-4848-bdac-321773e7c6e3)
