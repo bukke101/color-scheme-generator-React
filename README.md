@@ -1,6 +1,5 @@
 # Color Scheme Generator
 
-Developed using React, this user-friendly tool offers various color exploration modes and one-click hex value copying.
 
 ## Features:
 
@@ -10,11 +9,11 @@ Copy Hex Values with a Click
 
 ## Built With:
 - React 
-- Asynchronous JavaScript
+- JavaScript
 - HTML5
 - CSS
 
-This project was a solo endeavor from Scrimba's API course by Bob Ziroll. Based on a Figma design, it uses React, HTML, CSS, and the https://www.thecolorapi.com/ API.
+This project was a solo endeavor from Scrimba's API course by Bob Ziroll. Based on a Figma design, the https://www.thecolorapi.com/ API.
 
 
 ![Screenshot 2023-07-20 at 16 37 37](https://github.com/bukke101/color-scheme-generator-React/assets/64977921/65fb3984-193f-4848-bdac-321773e7c6e3)
